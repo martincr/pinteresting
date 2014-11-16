@@ -28,3 +28,5 @@ Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
 
 https://limitless-plateau-4668.herokuapp.com
+heroku run rake db:migrate
+heroku restart
