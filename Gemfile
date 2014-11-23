@@ -58,3 +58,6 @@ end
 
 # https://onemonth.com/courses/one-month-rails/steps/installing-devise
 gem 'devise'
+
+# https://onemonth.com/courses/one-month-rails/steps/image-upload-with-paperclip
+gem 'paperclip', '~> 3.0'
