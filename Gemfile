@@ -68,3 +68,7 @@ gem 'aws-sdk', '~> 1.20.0'
 # https://onemonth.com/courses/one-month-rails/steps/styling-with-jquery-masonry-pinteresting
 gem 'jquery-turbolinks'
 gem 'masonry-rails', '~> 0.2.0'
+
+# https://onemonth.com/courses/one-month-rails/steps/pagination-will-paginate
+gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate-bootstrap'
