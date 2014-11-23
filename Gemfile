@@ -64,3 +64,7 @@ gem 'paperclip', '~> 3.0'
 
 # https://onemonth.com/courses/one-month-rails/steps/paperclip-to-amazon-s3-images-on-heroku
 gem 'aws-sdk', '~> 1.20.0'
+
+# https://onemonth.com/courses/one-month-rails/steps/styling-with-jquery-masonry-pinteresting
+gem 'jquery-turbolinks'
+gem 'masonry-rails', '~> 0.2.0'
