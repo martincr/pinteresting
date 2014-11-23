@@ -61,3 +61,6 @@ gem 'devise'
 
 # https://onemonth.com/courses/one-month-rails/steps/image-upload-with-paperclip
 gem 'paperclip', '~> 3.0'
+
+# https://onemonth.com/courses/one-month-rails/steps/paperclip-to-amazon-s3-images-on-heroku
+gem 'aws-sdk', '~> 1.20.0'
